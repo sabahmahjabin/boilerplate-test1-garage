@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "boilerplate-test1-garage-df730"
   },
   "targets": {},
   "etags": {}
